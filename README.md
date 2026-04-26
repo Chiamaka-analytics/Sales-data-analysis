@@ -1,5 +1,5 @@
 ## Sales Data Analysis
-This project analysis sales pwrformance products.
+This project analysis sales performance products.
 
 ## Tools used
 Power BI
